@@ -1,4 +1,5 @@
-public function share()
+<?php
+</php>public function share()
 		{
 			$msg="";
 			$token="";
@@ -38,3 +39,4 @@ public function share()
 			}
 			
 		}
+?>
